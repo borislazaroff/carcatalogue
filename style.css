@@ -1,0 +1,42 @@
+body {
+    margin: 0px;
+    background-color: black;
+}
+
+h1 {
+    color: snow;
+    margin-bottom: 50px;
+    border-bottom: 1px solid snow;
+    border-right: 1px solid snow;
+    width: 260px;
+    box-shadow: 4px 4px 5px snow;
+}
+
+.heading {
+    color: snow;
+    font-size: 40px;
+    margin-left: 190px;
+    margin-bottom: 300;
+}
+
+
+.features {
+    font-size: 20px;
+    color: snow;
+    margin-left: 20px;
+    margin-bottom: 80px;
+}
+
+
+img {
+    border-radius: 10px;
+    transition: all 1s;
+}
+
+img:hover {
+    transform: scale(1.1);
+}
+
+ul {
+    list-style: none;
+}
